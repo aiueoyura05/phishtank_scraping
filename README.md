@@ -1,7 +1,9 @@
-#🐟phishtank_scraping🎣
+# 🐟phishtank_scraping🎣
+
 PhishTank has a database, but it does not adequately provide information about the informants or whether a site is a phishing site, such as with the labels "valid" or "Unknown". 
 This scraping code will save the ID, URL, informant's username, valid/Unknown status, and online information in CSV format. 
 https://phishtank.org/
+
 
 > [!TIP]
 >  The latest available information from PhishTank is for ID 17585. (Feb 15,2024）
